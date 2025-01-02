@@ -71,9 +71,11 @@ This project integrates three key components:
 ## Installation  
 
 ### Prerequisites  
-- Python 3.x  
-- Jupyter Notebook  
-- Flask  
+- Python 3.x
+- Node.js (for managing frontend dependencies)
+- Jupyter Notebook (for model experimentation)
+- Flask (backend API development)
+- Visual Studio Code (for editing and running HTML, CSS, and JavaScript files)
 
 ### Setup Instructions  
 
